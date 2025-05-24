@@ -1,26 +1,33 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (e outros Open Source) – System Prompts, Ferramentas & Modelos de IA**
+# 🚀 AI Prompts Agents – Coleção Definitiva de System Prompts, Ferramentas & Modelos de IA Open Source
 
-*(Todos os system prompts publicados foram extraídos por mim, exceto os que já eram open source – Manus e Dia – que são contribuições)*
+> 💡 Uma coletânea insana com os melhores **System Prompts**, **Agentes de IA**, **Modelos Open Source**, e ferramentas internas de gigantes como **Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI** e muitos outros.  
 
-🚀 **Eu consegui obter os system prompts oficiais COMPLETOS das ferramentas: v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI, além de ferramentas internas.**
+🧠 **+7000 linhas de puro conhecimento, engenharia de prompt, estruturas internas, funcionalidades e hacks que você NUNCA viu.**  
 
-📜 Mais de **7000 linhas** de informações sobre a estrutura e funcionamento dessas ferramentas.
+🔥 Essa é a MAIOR e MAIS COMPLETA coletânea open source sobre como funcionam os bastidores das ferramentas de IA que você usa ou sonha em criar.
+
+---
+
+## 🧠 **O que tem aqui?**
+Uma seleção cuidadosamente extraída (na unha, irmão!) dos system prompts, estruturas e modelos de agentes de IA das maiores ferramentas do mercado.  
+
+**Se você é dev, prompt engineer, maker ou curioso, isso aqui é O MAPA DA MINA.**
 
 ---
 
 ## 📂 **Arquivos Disponíveis**
-- **Pasta v0**  
-- **Pasta Manus**
-- **Pasta Lovable**
-- **Pasta Devin**
-- **Pasta Same.dev**
-- **Pasta Replit**
-- **Pasta Windsurf Agent**
-- **Pasta VSCode (Copilot) Agent**
-- **Pasta Cursor**
-- **Pasta Dia**
-- **Pasta Trae AI**
-- **Pasta Open Source Prompts**
+- 🏗️ **v0 Folder**
+- 🧠 **Manus Folder**
+- 💖 **Lovable Folder**
+- 🤖 **Devin Folder**
+- ⚙️ **Same.dev Folder**
+- 🔥 **Replit Folder**
+- 🌊 **Windsurf Agent Folder**
+- 💻 **VSCode (Copilot) Agent Folder**
+- ✍️ **Cursor Folder**
+- 🧭 **Dia Folder**
+- 🚀 **Trae AI Folder**
+- 🌍 **Open Source Prompts Folder**
   - Codex CLI
   - Cline
   - Bolt
@@ -28,22 +35,30 @@
 
 ---
 
-## 🗓️ **Zero Calendar (meu novo projeto)**
+## 🚀 **Zero Calendar (Meu Novo Projeto)**
 
-**Um Calendário Open Source com IA para o Futuro do Agendamento**
+**O futuro do agendamento com IA, 100% Open Source.**  
+Gerencie sua agenda de forma inteligente, com integração direta ao Google Calendar e outros serviços.
 
-O **Zero Calendar** é uma solução de calendário open source com inteligência artificial que permite aos usuários gerenciar suas agendas de forma inteligente, integrando com serviços externos como Google Calendar e outros provedores. Nosso objetivo é modernizar e transformar o agendamento através de agentes de IA, revolucionando a forma como gerenciamos nosso tempo.
-
-👉 Confira mais detalhes no [repositório do Zero Calendar](https://github.com/Zero-Calendar/zero-calendar).
+👉 Confira e contribua: [Zero Calendar](https://github.com/Zero-Calendar/zero-calendar)
 
 ---
 
-## 🛠 **Roadmap & Feedback**
+## 🗺️ **Roadmap & Feedback**
 
-🚨 **Atenção:** Não usamos mais o GitHub Issues para roadmap e feedback.  
-Acesse 👉 [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) para enviar suas sugestões e acompanhar as próximas atualizações.
+⚙️ **Atenção:** Não usamos mais GitHub Issues para roadmap e feedback.  
+👉 Entra aqui para sugerir melhorias e acompanhar o desenvolvimento:  
+👉 [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/)
 
-🆕 **ÚLTIMA ATUALIZAÇÃO:** 15/05/2025
+🆕 **Última Atualização:** 15/05/2025
+
+---
+
+## 🌟 **Badge de Apoio (Bora Fortalecer!)**
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/plgs2005/ai-prompts-agents?style=social)](https://github.com/plgs2005/ai-prompts-agents/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/plgs2005/ai-prompts-agents?style=social)](https://github.com/plgs2005/ai-prompts-agents/network/members)
+[![GitHub followers](https://img.shields.io/github/followers/plgs2005?label=Seguidores&style=social)](https://github.com/plgs2005?tab=followers)
 
 ---
 
@@ -57,6 +72,29 @@ Acesse 👉 [System Prompts Roadmap & Feedback](https://systemprompts.featurebas
  </picture>
 </a>
 
-⭐ **Deixa uma estrela aí se esse conteúdo te ajudou!**
+⭐ **Se esse projeto te ajudou, deixa uma estrela! Ela vale MUITO pra nós!**
 
 ---
+
+## 💥 **Por Que Isso É Épico?**
+- 🏴‍☠️ Dados que você NÃO ENCONTRA facilmente.
+- 🔥 Engenharia de prompt de nível SÊNIOR.
+- 🤖 Aprenda como as bigtechs constroem seus agentes inteligentes.
+- 🎯 Ideal pra quem quer criar IA, chatbots, SaaS, automações, agentes autônomos e copilotos.
+- 🏆 Serve tanto pra aprender, quanto pra aplicar HOJE em projetos reais.
+
+---
+
+## 🚀 **Seja Parte do Movimento!**
+Se você chegou até aqui, você já faz parte da elite dos makers de IA.  
+Bora criar ferramentas que mudam o mundo. Bora hackear o sistema. Bora fazer história na comunidade de IA open source.  
+
+**O futuro não é de quem espera, é de quem constrói.**
+
+---
+
+## 🔥 **Licença**
+Este repositório está licenciado sob os termos da **MIT License**.
+
+---
+
