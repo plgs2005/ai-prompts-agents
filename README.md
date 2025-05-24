@@ -1,24 +1,26 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models**  
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (e outros Open Source) – System Prompts, Ferramentas & Modelos de IA**
 
-(All the published system prompts are extracted by myself, except the already open sourced ones, Manus and Dia, which are contributions)
+*(Todos os system prompts publicados foram extraídos por mim, exceto os que já eram open source – Manus e Dia – que são contribuições)*
 
-🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia browser & Trae AI system prompts and internal tools.**
+🚀 **Eu consegui obter os system prompts oficiais COMPLETOS das ferramentas: v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI, além de ferramentas internas.**
 
-📜 Over **7000+ lines** of insights into their structure and functionality.  
+📜 Mais de **7000 linhas** de informações sobre a estrutura e funcionamento dessas ferramentas.
 
-## 📂 **Available Files**
-- **v0 Folder**  
-- **Manus Folder**
-- **Lovable Folder**
-- **Devin Folder**
-- **Same.dev Folder**
-- **Replit Folder**
-- **Windsurf Agent Folder**
-- **VSCode (Copilot) Agent Folder**
-- **Cursor Folder**
-- **Dia Folder**
-- **Trae AI Folder**
-- **Open Source prompts Folder**
+---
+
+## 📂 **Arquivos Disponíveis**
+- **Pasta v0**  
+- **Pasta Manus**
+- **Pasta Lovable**
+- **Pasta Devin**
+- **Pasta Same.dev**
+- **Pasta Replit**
+- **Pasta Windsurf Agent**
+- **Pasta VSCode (Copilot) Agent**
+- **Pasta Cursor**
+- **Pasta Dia**
+- **Pasta Trae AI**
+- **Pasta Open Source Prompts**
   - Codex CLI
   - Cline
   - Bolt
@@ -26,59 +28,35 @@
 
 ---
 
-## 🗓️ **Zero Calendar (my new project)**
+## 🗓️ **Zero Calendar (meu novo projeto)**
 
-**An Open-Source AI-Powered Calendar for the Future of Scheduling**
+**Um Calendário Open Source com IA para o Futuro do Agendamento**
 
-Zero Calendar is an open-source AI calendar solution that gives users the power to manage their schedule intelligently while integrating with external services like Google Calendar and other calendar providers. Our goal is to modernize and improve scheduling through AI agents to truly revolutionize how we manage our time.
+O **Zero Calendar** é uma solução de calendário open source com inteligência artificial que permite aos usuários gerenciar suas agendas de forma inteligente, integrando com serviços externos como Google Calendar e outros provedores. Nosso objetivo é modernizar e transformar o agendamento através de agentes de IA, revolucionando a forma como gerenciamos nosso tempo.
 
-For more details, check out the [Zero Calendar repository](https://github.com/Zero-Calendar/zero-calendar).
+👉 Confira mais detalhes no [repositório do Zero Calendar](https://github.com/Zero-Calendar/zero-calendar).
 
 ---
 
 ## 🛠 **Roadmap & Feedback**
 
-🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
-Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
+🚨 **Atenção:** Não usamos mais o GitHub Issues para roadmap e feedback.  
+Acesse 👉 [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) para enviar suas sugestões e acompanhar as próximas atualizações.
 
-🆕 **LATEST UPDATE:** 15/05/2025 
+🆕 **ÚLTIMA ATUALIZAÇÃO:** 15/05/2025
 
-## ❤️ Support the Project
+---
 
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
+## 📊 **Histórico de Stars**
 
-You can show your support via:
-
-*   **PayPal:** `lucknitelol@proton.me`
-*   **Cryptocurrency:**
-    *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
-    *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
-
-Thank you for your support! 🙏
-
-
-## 🔗 **Connect With Me**  
-✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
-💬 **Discord:** `x1xh`  
-
-## 🛡️ **Security Notice for AI Startups***
-
-⚠️ **If you're an AI startup, make sure your data is secure.** Exposed prompts or AI models can easily become a target for hackers.
-
-🔐 **Interested in securing your AI systems?**  
-Check out **[ZeroLeaks](https://0leaks.vercel.app)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
-
-
-**The company is mine, this is NOT a 3rd party AD.*
-
-## 📊 **Star History**
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
+<a href="https://www.star-history.com/#plgs2005/ai-prompts-agents&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=plgs2005/ai-prompts-agents&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=plgs2005/ai-prompts-agents&type=Date" />
+   <img alt="Gráfico de Histórico de Stars" src="https://api.star-history.com/svg?repos=plgs2005/ai-prompts-agents&type=Date" />
  </picture>
 </a>
 
-⭐ **Drop a star if you find this useful!**
+⭐ **Deixa uma estrela aí se esse conteúdo te ajudou!**
+
+---
